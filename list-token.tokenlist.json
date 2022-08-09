@@ -1102,11 +1102,36 @@
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://assets.coingecko.com/coins/images/13630/small/nord.jpg?1610465136"
-    }
+    },
+    {
+      "name": "ARTH",
+      "address": "0x8cc0f052fff7ead7f2edcccac895502e884a8a71",
+      "symbol": "ARTH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
+    },
+    {
+      "name": "ARTH",
+      "address": "0xe52509181feb30eb4979e29ec70d50fd5c44d590",
+      "symbol": "ARTH",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
+    },
+    {
+      "name": "ARTH",
+      "address": "0x85dab10c3ba20148ca60c2eb955e1f8ffe9eaa79",
+      "symbol": "ARTH",
+      "decimals": 18,
+      "chainId": 56,
+      "logoURI": "https://assets.coingecko.com/coins/images/16876/small/ARTH_Token.png?1625651538"
+    },
+    
   ],
   "version": {
     "major": 2,
-    "minor": 80,
+    "minor": 81,
     "patch": 0
   }
 }
