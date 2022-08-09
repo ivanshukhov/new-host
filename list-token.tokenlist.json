@@ -1078,11 +1078,35 @@
       "decimals": 18,
       "chainId": 43114,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/7846.png"
+    },
+    {
+      "name": "Nord Finance",
+      "address": "0x6e9730ecffbed43fd876a264c982e254ef05a0de",
+      "symbol": "NORD",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/13630/small/nord.jpg?1610465136"
+    },
+    {
+      "name": "Nord Finance",
+      "address": "0xf6f85b3f9fd581c2ee717c404f7684486f057f95",
+      "symbol": "NORD",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/13630/small/nord.jpg?1610465136"
+    },
+    {
+      "name": "Nord Finance",
+      "address": "0x8965349fb649A33a30cbFDa057D8eC2C48AbE2A2",
+      "symbol": "NORD",
+      "decimals": 18,
+      "chainId": 43114,
+      "logoURI": "https://assets.coingecko.com/coins/images/13630/small/nord.jpg?1610465136"
     }
   ],
   "version": {
     "major": 2,
-    "minor": 79,
+    "minor": 80,
     "patch": 0
   }
 }
