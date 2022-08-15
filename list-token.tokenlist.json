@@ -251,7 +251,7 @@
       "chainId": 137,
       "address": "0xeCDCB5B88F8e3C15f95c720C51c71c9E2080525d",
       "name": "Wrapped BNB (Wormhole)",
-      "symbol": "WBTCW",
+      "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://polygonscan.com/token/images/wormholebnb_32.png"
     },
