@@ -1297,8 +1297,16 @@
    },
     {
       "chainId": 42161,
-      "address": "0x1D54Aa7E322e02A0453c0F2fA21505cE7F2E9E93",
+      "address": "0x13538f1450Ca2E1882Df650F87Eb996fF4Ffec34",
       "name": "DFYN Token",
+      "symbol": "DFYN",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png"
+   },
+    {
+      "chainId": 42161,
+      "address": "0x1D54Aa7E322e02A0453c0F2fA21505cE7F2E9E93",
+      "name": "DFYN Token (Deprecated)",
       "symbol": "DFYN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png"
@@ -1354,7 +1362,7 @@
   ],
   "version": {
     "major": 2,
-    "minor": 102,
+    "minor": 103,
     "patch": 0
   }
 }
